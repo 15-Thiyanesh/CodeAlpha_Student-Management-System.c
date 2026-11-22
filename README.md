@@ -37,5 +37,4 @@ Name: Jeya Shruthi
 Mark: 98.00
 
 ## Output Screenshot
-![High-Student Management System]
-(High-Student Management System.png)
+![High-Student Management System](StudentManagementSystem.png)
